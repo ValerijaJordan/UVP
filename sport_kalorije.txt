@@ -1,0 +1,3 @@
+Tek,10
+Kolo,5
+Plavanje,10
